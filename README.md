@@ -4,7 +4,7 @@ Este projeto foi desenvolvido com a finalidade de ajudar usuários a encontrar u
 
 A proposta é simples: responder algumas questões rápidas e receber uma recomendação personalizada de jogo, tornando a escolha mais prática e divertida.
 
-###🚀 Objetivo
+### 🚀 Objetivo
 
 Facilitar a descoberta de novos jogos e auxiliar usuários indecisos a escolherem algo para jogar de acordo com suas preferências.
 
