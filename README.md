@@ -19,4 +19,4 @@ O sistema realiza perguntas sobre gostos e preferências do usuário, como:
 * Que tal jogar um FPS/Tático?
 * Gostaria de jogar mundo aberto?
 
-Com base nas respostas, o sistema sugere um jogo adequado para proporcionar uma experiência divertida.
+📌 Com base nas respostas, o sistema sugere um jogo adequado para proporcionar uma experiência divertida.
